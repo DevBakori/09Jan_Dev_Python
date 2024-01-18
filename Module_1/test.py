@@ -58,7 +58,7 @@
 # tamp=a 
 #                               <<<<  using 3rd var. swaping
 # a=b
-# b=tamp
+# b=tamp    
 # print("A =",a)
 # print("B =",b)
 
